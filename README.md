@@ -19,7 +19,7 @@ This is one example of an automation test
 ---
 **For this task I used Python v.37-32 with selenium**
 * Install Python 37-32 on your computer from https://www.python.org/downloads/;
-* Text editor of choice, preferably [PyCharm IDE] (https://www.jetbrains.com/pycharm/);
+* Text editor of choice, preferably [PyCharm IDE](https://www.jetbrains.com/pycharm/);
 * Install & configure source control system of choice (or git).
 
 **Useful links:** 
