@@ -1,8 +1,9 @@
 # Automation-test-assessment
 **Version 1.0.0**
+
 This is one example of an automation test in Python
 I used Chrome webdriver and **unittest** framework for this example
-I used Chrome webdriver for this example.
+
 ---
 ## What was the task?
 **The task was to Create automated tests using Selenium and Page Object Model pattern to perform the following steps**
