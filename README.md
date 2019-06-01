@@ -1,7 +1,7 @@
 # Automation-test-assessment
 **Version 1.0.0**
 
-This is one example of an automation test in Python
+This is one example of an automation test in Python.
 I used Chrome webdriver and **unittest** framework for this example
 
 ---
