@@ -1,4 +1,4 @@
-# Automation-test-assessment
+# Automation test assessment
 **Version 1.0.0**
 
 This is one example of an automation test in Python.
